@@ -445,5 +445,6 @@ gapminder %>%
 # modifique un código para guardar en Save As
 # sale en files el archivo
 # git add.
-
+# salen en ver
+# git commit -m " se agregaron instrucciones de GIT"
 
