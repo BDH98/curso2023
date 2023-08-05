@@ -434,14 +434,3 @@ gapminder %>%
 
 # git add > git comit > git push >
 
-# git init
-# git config --global user.name Brend duana
-# git config --global user.email brenda.duana.h@gmail.com
-# git branch -M main
-# git remote add origin +link
-# git remote -v
-# git status
-# git add.
-# modifique un código para guardar en Save As
-
-
