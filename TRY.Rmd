@@ -1,0 +1,20 @@
+---
+title: "try"
+author: "BRENDA DUANA"
+date: "2023-08-05"
+output: html_document
+---
+
+# INTENTO NO.1
+
+```{r}
+summary(cars)
+```
+```{r}
+library(ggplot2)
+library(dplyr)
+library(skimr)
+
+```
+
+
