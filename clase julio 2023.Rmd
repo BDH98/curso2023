@@ -1,0 +1,63 @@
+---
+title: "Untitled"
+author: "BRENDA DUANA"
+date: "2023-08-04"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    collapsed: true
+    smooth_scroll: true
+    highlight: zenburn
+    theme: readable
+---
+
+# Mi primer markdown
+## Segunda letra menos grande
+### Tercera letra menos grande
+#### Cuarta letra menos grande
+
+## *italica*
+## **negrita**
+## ***negrita e italica***
+
+1. Lista1
+2. Lista2
+3. Lista3
+
+- Punto1
+- Punto2
+- Punto3
+
+* Punto 1
+* Punto 2
+
+[este es mi github](https://github.com/BDH98/curso2023.git)
+
+summary(cars)
+```{r}
+summary(cars)
+```
+```{r echo=FALSE, out.width='500px', out.height='600px'}
+knitr::include_graphics("https://www.fundacion-affinity.org/perros-gatos-y-personas/tengo-un-animal-de-compania/los-8-sonidos-principales-del-perro")
+
+```
+```{r}
+# esto es un comentario de mi codigo
+# si tiene codigo aqui, para correr es ctrl+alt+i
+suma <- 5+3
+suma
+```
+la ecuación *teorema de pitagoras*: $x^2 + y^2 = z^2$
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+library(ggplot2)
+library(dplyr)
+library(skimr)
+```
+```{r}
+sessionInfo()
+```
+
+
